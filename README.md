@@ -1,6 +1,8 @@
 # 6feet
 
-  git clone https://github.com/dataart/6feet.git
+```
+git clone https://github.com/dataart/6feet.git
+```
 
 For more information please visit: <https://6feet.dataart.com>
 
