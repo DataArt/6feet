@@ -1,0 +1,7 @@
+Flask
+requests
+pytz
+aiohttp
+flask-cors
+pymongo
+uwsgi
